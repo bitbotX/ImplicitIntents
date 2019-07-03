@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Let\'s Code Android</string>
+    <string name="website_to_visit">Enter a website to visit</string>
+    <string name="go_web">Go Web</string>
+    <string name="location_to_visit">Enter a location to show in map</string>
+    <string name="go_loc">Go Location</string>
+    <string name="share_text">Enter text to share</string>
+    <string name="sharing_text">Share Text</string>
+</resources>
